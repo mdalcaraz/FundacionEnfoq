@@ -10,7 +10,7 @@ if (isset($_REQUEST['section'])) {
 
 
 switch ($section) {
-    case "colaborar":
+    case "Colaborar":
         //PHP Donate
         require_once("../view/collaborate.php");
         break;
@@ -20,5 +20,3 @@ switch ($section) {
         break;
 
     }
-
-

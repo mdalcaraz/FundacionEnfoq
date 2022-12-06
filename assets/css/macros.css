@@ -1,0 +1,20 @@
+/*===== GOOGLE FONTS =====*/
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+/*===== Colores =====*/
+:root{
+  --donateButtonColor: #4070F4;
+  --voluntareeButtonColor: #0E2431;
+  --navBarBackgroundColor: #a8acb9;
+}
+
+/*===== Fuente y tipografia =====*/
+:root{
+  --body-font: 'Poppins', sans-serif;
+  --big-font-size: 1.5rem;
+  --h2-font-size: 1.25rem;
+  --normal-font-size: 0.938rem;
+}
+
+a{
+  text-decoration: none;
+}
